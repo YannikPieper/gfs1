@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KGT Chat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="chat1">
+        <item>Jonathan</item>
+        <item>ist</item>
+        <item>Hurensohn</item>
+    </string-array>
+
+    <string-array name="chat2">
+        <item>Yannik</item>
+        <item>Pieper</item>
+        <item>bester</item>
+    </string-array>
+
+    <string-array name="chat3">
+        <item>Thug</item>
+        <item>Life</item>
+        <item>Bitches</item>
+    </string-array>
+
+</resources>
